@@ -8,7 +8,6 @@
     android:padding="20dp"
     tools:context="com.example.vil.myapplication.Main5Activity">
 
-
     <TextView
         android:id="@+id/text"
         android:layout_width="match_parent"
